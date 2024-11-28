@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create_form_by_rhf_zod/static/css/main.e750aeb5.css",
+    "main.js": "/create_form_by_rhf_zod/static/js/main.acd7d710.js",
+    "index.html": "/create_form_by_rhf_zod/index.html",
+    "main.e750aeb5.css.map": "/create_form_by_rhf_zod/static/css/main.e750aeb5.css.map",
+    "main.acd7d710.js.map": "/create_form_by_rhf_zod/static/js/main.acd7d710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e750aeb5.css",
+    "static/js/main.acd7d710.js"
+  ]
+}
